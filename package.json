@@ -51,7 +51,7 @@
     "@tanstack/react-table": "^8.10.7",
     "@vulpemventures/secp256k1-zkp": "^3.2.1",
     "apollo-server-express": "^3.13.0",
-    "balanceofsatoshis": "^17.5.2",
+    "balanceofsatoshis": "^19.4.5",
     "bcryptjs": "^2.4.3",
     "bech32": "^2.0.0",
     "big.js": "^6.2.1",
